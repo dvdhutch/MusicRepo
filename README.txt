@@ -4,7 +4,7 @@ How to import into Remix (Solidity IDE):
 
 https://remix-ide.readthedocs.io/en/latest/import.html
 
-`import "https://github.com/dvdhutch/MusicRepo/blob/main/contracts/MusicRepo.sol";`
+import "https://github.com/dvdhutch/MusicRepo/blob/main/contracts/MusicRepo.sol";
 
 
 
