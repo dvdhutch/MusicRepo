@@ -1,14 +1,21 @@
-Solidity smart contract CRUD (create, read, update, delete) application on Ethereum blockchain designed for use as music library administration tool.
+# Music Repo
+
+Music Repo is a solidity smart contract CRUD (create, read, update, delete) application on Ethereum blockchain designed for use as music library administration tool.
+
+## Installation
 
 How to import into Remix (Solidity IDE):
 
 https://remix-ide.readthedocs.io/en/latest/import.html
 
+```bash
 import "https://github.com/dvdhutch/MusicRepo/blob/main/contracts/MusicRepo.sol";
+```
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
-
-
+## Remix
 
 
 REMIX DEFAULT WORKSPACE
